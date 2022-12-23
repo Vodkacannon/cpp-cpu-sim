@@ -1,3 +1,6 @@
 #pragma once
 
-#include "include/bool.hpp"
+#include "bool.hpp"
+#include "and.hpp"
+#include "not.hpp"
+#include "or.hpp"
