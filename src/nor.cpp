@@ -1,4 +1,4 @@
-#include "cpp-cpu-sim.hpp"
+#include "inc/cpp_cpu_sim.hpp"
 
 Bool NOR(Bool a, Bool b)
 {
